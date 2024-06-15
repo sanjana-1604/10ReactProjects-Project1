@@ -8,8 +8,8 @@ const Hero = ()=>
                     Your feet deserves the best and We are here to help with our shoes. 
                 </p>
                 <div className="hero-btn">
-                    <button>Shop Now</button>
-                    <button>Category</button>
+                    <button>Shop Now </button>
+                    <button className="secondary-btn">Category</button>
                 </div>
                 <p>Also Available On</p>
                 <div className="shopping">
