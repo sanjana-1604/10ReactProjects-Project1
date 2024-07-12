@@ -44,8 +44,12 @@ nav ul {
 }
 .hero-content {
   display: flex;
-  flex-direction: column;
-  gap: 36px;
+  flex-direction: column;  
+  max-width: 50%;
+}
+.hero_image
+{
+  
 }
 .hero h1 {
   font-weight: 800;

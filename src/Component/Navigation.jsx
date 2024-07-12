@@ -3,7 +3,7 @@ const Navigation=()=>
         return(
             <nav className="container">
     <div className='logo'>
-    <img src="./public/img/brand_logo.png"></img>
+    <img src="/brand_logo.png"></img>
     </div>
     <ul>
       <li href="#">Menu</li>

@@ -13,13 +13,13 @@ const Hero = ()=>
                 </div>
                 <p>Also Available On</p>
                 <div className="shopping">
-                    <img src="./public/img/flipkart.png"></img>
-                    <img src="./public/img/amazon.png"></img>
+                    <img src="/flipkart.png"></img>
+                    <img src="/amazon.png"></img>
                 </div>
                  
             </div>
             <div className="hero-image">
-            <img src="./public/img/shoe_image.png"></img>
+            <img src="/shoe_image.png"></img>
                  </div>
             
             </main>
